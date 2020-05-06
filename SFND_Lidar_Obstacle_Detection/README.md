@@ -1,6 +1,6 @@
 # Sensor Fusion Self-Driving Car Course
 
-<img src="https://github.com/awbrown90/SensorFusionHighway/blob/master/media/ObstacleDetectionFPS.gif" width="700" height="400" />
+<img src="https://github.com/Bee-Mar/Udacity-Sensor-Fusion-Lidar-Obstacle-Detection/blob/5950bc83fd552ef3fea71f654dac4d9f2a647c81/media/ObstacleDetectionFPS.gif />
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
